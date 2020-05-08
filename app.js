@@ -9,6 +9,7 @@ todoButton.addEventListener('click', addTodo);
 todoList.addEventListener('click', deletcheck);
 
 //functions
+//test git
 
 function addTodo(Event){
 
